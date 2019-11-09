@@ -6,5 +6,5 @@ gradient ascent program to reinforce my understanding of the subject.
 
 **For Gradient Descent...**
 
-The return function of the first function definition returns the funtions which will be minimized. A system of equations can also be solved
+The return function of the first function definition returns the funtion which will be minimized. A system of equations can also be solved
 by passing in 2 functions f_1 and f_2 such that (f_1)^2 + (f_2)^2.
